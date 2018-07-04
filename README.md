@@ -1,5 +1,5 @@
-# Candidate CRM
-This repository contains the sample code snippet of Candidate CRM
+# sample-node-mongo-rest-api-code
+This repository contains the sample code snippet of Node.js and MongoDB 
 
 #### swagger-specification.yaml
 This file contains the swagger specification that is responsible to select a appropriate controller file based on `x-swagger-router-controller` and then select the appropriate function of controller based on `operationId` value.
